@@ -1,8 +1,9 @@
 # Maintainer: Lenny McLennington <lennymclennington@protonmail.com>
 # Contributor: Miko <mikoxyzzz@gmail.com>
 # Contributor: Cheru Berhanu <aur attt cheru doot dev>
+# Contributor: Aldair Doe <aldairdoe@kolabnow.com>
 
-_pkgname=multimc
+_pkgname=ultimmc
 pkgname=${_pkgname}-git
 pkgver=0.6.14.r21.g3dd6cea8
 pkgrel=2
